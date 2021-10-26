@@ -7,3 +7,4 @@ answer = solveMeFirst(dight1,dight2)
 print(answer)
 
 
+#problemsolving
