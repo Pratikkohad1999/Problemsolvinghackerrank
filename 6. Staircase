@@ -21,3 +21,8 @@ if __name__ == '__main__':
     n = int(input().strip())
 
     staircase(n)
+
+    
+    
+#############################################
+# Easy - Hackerrank - Python - 25/10/2021
