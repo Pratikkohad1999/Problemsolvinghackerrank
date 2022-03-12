@@ -13,6 +13,7 @@ import sys
 ######################################################
 # Mini-Max Program
 # start of the code
+######################################################
 
 def miniMaxSum(arr):
     # Write your code here
