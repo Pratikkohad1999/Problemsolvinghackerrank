@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#
+########################################## start of the code
 # Complete the 'getTotalX' function below.
 #
 # The function is expected to return an INTEGER.
